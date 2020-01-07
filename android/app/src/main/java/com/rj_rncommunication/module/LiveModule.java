@@ -54,7 +54,7 @@ public class LiveModule extends ReactContextBaseJavaModule {
     }
 
     /**
-     *
+     *promise的形式回调
      * @param promise
      * @return
      */
